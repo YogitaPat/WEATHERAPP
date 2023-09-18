@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577717935228",
+    "project_id": "weather-app-liv",
+    "storage_bucket": "weather-app-liv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577717935228:android:bfa5217a14801f6e6f3df9",
+        "android_client_info": {
+          "package_name": "com.demo.weather_application_assign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASpJ9Y1Sob7JNdWbqsn3kh5fm2WuIuKMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
